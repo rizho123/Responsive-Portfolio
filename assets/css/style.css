@@ -198,7 +198,7 @@ textarea {
 
 
 @media screen and (max-width: 980px) {
-    .portfolio, .imgset, .text1, .mainbody {
+    .portfolio, .imgset, .text1, .mainbody, #nfield1, textarea {
         width: 80%;
     }
 }
